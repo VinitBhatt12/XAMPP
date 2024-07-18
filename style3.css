@@ -1,0 +1,34 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    position: relative;
+    height: 100%;
+    background-image: url(pexels-eberhardgross-1367192.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat    ;
+
+}
+
+.tr1{
+    color: rgb(218, 234, 223);
+    backdrop-filter: blur(8px);
+    position:sticky;
+    top: 0;
+}
+
+.tr2{
+    color: white;
+}
+
+.update{
+    color: rgb(204, 247, 140);
+}
+
+.delete{
+    color: rgb(182, 73, 73);
+    /* font: bolder; */
+    font: bold;
+}

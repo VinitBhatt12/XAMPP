@@ -1,0 +1,29 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    position: relative;
+    height: 100%;
+    background-image: url(pexels-pixabay-33545.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat    ;
+
+}
+
+form{
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-bottom: 35px;
+    /* color: aliceblue; */
+    /* color: aqua; */
+}
+
+.tr1{
+    color: black;
+    position:sticky;
+    top: 0;
+    backdrop-filter: blur(20px);
+}
+
