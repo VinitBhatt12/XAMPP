@@ -19,7 +19,7 @@
 
   <body>
     <div >
-    <table class="table">
+    <table class="table">  
     <thead>
     <tr class="tr1">
       <!-- <th scope="col">Sl no.</th> -->
@@ -80,6 +80,7 @@
         }
     ?>
     </table>
+    <a href="pdf.php" class="button-85">PDF</a>
     </div> 
 <script>
     function checkdelete(){
